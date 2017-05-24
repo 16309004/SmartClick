@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_icon_on.png",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\b_icon_on.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_icon_off.png",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\b_icon_off.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_icon.png",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\alarm_icon.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_on.xml",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\round_button_on.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_off.xml",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\round_button_off.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_border_on.xml",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\circle_border_on.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\BluetoothChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_border_off.xml",
+        "source": "C:\\dev\\workspace\\BluetoothChat\\app\\src\\main\\res\\drawable\\circle_border_off.xml"
+    }
+]

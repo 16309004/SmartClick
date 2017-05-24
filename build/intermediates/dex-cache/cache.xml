@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\dev\workspace\BluetoothChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\dev\workspace\BluetoothChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24f4f86ebaf8f8a0337c2046c67dcc9d7b1ed0c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\dev\workspace\BluetoothChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2e516bfde80f819afea4e3fcab508b664ae3b9b">
+        <dex dex="C:\dev\workspace\BluetoothChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_554f8387156a8d044944c47f65ef909a2eae93f7\classes.dex" />
+    </item>
+
+</items>
